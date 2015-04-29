@@ -1,2 +1,2 @@
 # Paradigmas
-teste aventureiro de git
+teste aventureiro de git modificado
